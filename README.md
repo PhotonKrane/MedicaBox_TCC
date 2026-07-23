@@ -35,3 +35,5 @@ MedicaBox is an automated medication organizer integrated with an Android applic
 **Logo**: [MedicaBox Logo](https://github.com/PhotonKrane/MedicaBox_TCC/blob/main/TCC/media/Logo/MedicaBox%20Logo.png)\
 **Functional Prototype**: [Final Test](https://github.com/PhotonKrane/MedicaBox_TCC/blob/main/TCC/media/Embadded/Videos/Final_Test.mp4)\
 **Schematic**: [Schematic Diagram](https://github.com/PhotonKrane/MedicaBox_TCC/blob/main/TCC/codes/hardware/Schematic/Schematic%20Diagram.png)
+
+### IF YOU WANT KNOW MORE INFORMATION, YOU CAN SEE MORE INFO [HERE](https://github.com/PhotonKrane/MedicaBox_TCC/tree/main/TCC)
