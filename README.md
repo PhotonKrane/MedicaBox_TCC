@@ -7,6 +7,19 @@
 ## 📘 About the Project:
 MedicaBox is an automated medication organizer integrated with an Android application. The system allows users to configure their profiles, organize medicines by compartments, schedule medication times, and receive notifications through the mobile app. The physical device uses embedded electronics to automatically identify and dispense the correct medication at the configured time, while the application provides an intuitive interface for managing users, medicines, and schedules. The project combines IoT, embedded systems, and mobile development concepts to create a solution focused on improving medication organization and adherence.
 
+## Technologies
+  **- Mobile Programming**\
+  **- Embedded Systems**\
+  **- Eletronics**\
+  **- Android Studio**\
+  **- Firebase**\
+  **- WiFi in ESP32**\
+  **- Microcontroller ESP32**
+
 ## ☑️ Summary:
-Monograph: [Final Monograaph](https://github.com/PhotonKrane/MedicaBox_TCC/blob/main/TCC/docs/Monograph/Final%20Monograph.pdf)\
-Mobile Code: [MedicaBox_Final_Project_App](https://github.com/PhotonKrane/MedicaBox_TCC/tree/main/TCC/codes/android/MedicaBox_Final_Project_App/MedicaBox_Final_Project_App-master)
+**Monograph**: [Final Monograaph](https://github.com/PhotonKrane/MedicaBox_TCC/blob/main/TCC/docs/Monograph/Final%20Monograph.pdf)\
+**Mobile Code**: [MedicaBox_Final_Project_App](https://github.com/PhotonKrane/MedicaBox_TCC/tree/main/TCC/codes/android/MedicaBox_Final_Project_App/MedicaBox_Final_Project_App-master)\
+**Firmware Code**: [Final_Project_Firmware_Program](https://github.com/PhotonKrane/MedicaBox_TCC/tree/main/TCC/codes/firmware/Final_Project_Firmware_Program)\
+**Logo**: [MedicaBox Logo](https://github.com/PhotonKrane/MedicaBox_TCC/blob/main/TCC/media/Logo/MedicaBox%20Logo.png)\
+**Functional Prototype**: [Final Test](https://github.com/PhotonKrane/MedicaBox_TCC/blob/main/TCC/media/Embadded/Videos/Final_Test.mp4)\
+**Schematic**: [Schematic Diagram](https://github.com/PhotonKrane/MedicaBox_TCC/blob/main/TCC/codes/hardware/Schematic/Schematic%20Diagram.png)
