@@ -1,5 +1,3 @@
-📌 Above all else, this project was a milestone in my life as a programmer; it was the very first programming project I ever worked on.📌
-
 # <img src="https://github.com/PhotonKrane/MedicaBox_TCC/blob/main/TCC/media/Logo/MedicaBox%20Logo.png" width="50" alt="Logo MedicaBox"> MedicaBox TCC 💊
 
 <img src = "https://github.com/PhotonKrane/MedicaBox_TCC/blob/main/TCC/media/Final%20Presentation/Complete_Box.jpg" height="300" alt="Prototipo MedicaBox">
@@ -37,3 +35,5 @@ MedicaBox is an automated medication organizer integrated with an Android applic
 **Schematic**: [Schematic Diagram](https://github.com/PhotonKrane/MedicaBox_TCC/blob/main/TCC/codes/hardware/Schematic/Schematic%20Diagram.png)
 
 ### IF YOU WANT KNOW MORE INFORMATION, YOU CAN SEE MORE INFO [HERE](https://github.com/PhotonKrane/MedicaBox_TCC/tree/main/TCC)
+
+📌 Above all else, this project was a milestone in my life as a programmer; it was the very first programming project I ever worked on.📌
