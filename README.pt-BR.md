@@ -1,3 +1,5 @@
+[US README](https://github.com/PhotonKrane/MedicaBox_TCC/blob/main/README.md) | **PT-BR README**
+
 # <img src="https://github.com/PhotonKrane/MedicaBox_TCC/blob/main/TCC/media/Logo/MedicaBox%20Logo.png" width="50" alt="Logo MedicaBox"> TCC MedicaBox 💊
 
 <img src = "https://github.com/PhotonKrane/MedicaBox_TCC/blob/main/TCC/media/Final%20Presentation/Complete_Box.jpg" height="300" alt="Prototipo MedicaBox">
