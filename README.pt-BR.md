@@ -17,7 +17,7 @@ O MedicaBox é um organizador de medicamentos automatizado integrado a um aplica
 **- Pedro Lerio**
 **- Tiago Oliveira**
 
-## Tecnologias:
+## 📱 Tecnologias:
   **- Programação Mobile**\
   **- Sistemas Embarcados**\
   **- Eletrônica**\
