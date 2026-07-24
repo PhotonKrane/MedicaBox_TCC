@@ -4,7 +4,7 @@
 
 <img src = "https://github.com/PhotonKrane/MedicaBox_TCC/blob/main/TCC/media/Final%20Presentation/Complete_Box.jpg" height="300" alt="Prototipo MedicaBox">
 
-### O código de programação do projeto está sob a Licença MIT, conforme no documento [LICENSE](https://github.com/PhotonKrane/MedicaBox_TCC/blob/main/LICENSE), portanto documentos, fotos,identidade visual entre fatores que se separam de programação NÃO SÃO DISPONIBILIZADOS.
+### O código de programação do projeto está sob a Licença MIT, conforme no documento [LICENSE](https://github.com/PhotonKrane/MedicaBox_TCC/blob/main/LICENSE),portanto documentos,fotos identidade visual entre fatores que se separam de programação NÃO SÃO DISPONIBILIZADOS.
 
 ## 📘 Sobre o Projeto:
 O MedicaBox é um organizador de medicamentos automatizado integrado a um aplicativo para Android. O sistema permite que os usuários configurem seus perfis, organizem medicamentos em compartimentos, programem horários de administração e recebam notificações por meio do aplicativo móvel. O dispositivo físico utiliza eletrônica embarcada para identificar e dispensar automaticamente o medicamento correto no horário programado, enquanto o aplicativo oferece uma interface intuitiva para o gerenciamento de usuários, medicamentos e horários. O projeto combina conceitos de IoT, sistemas embarcados e desenvolvimento móvel para criar uma solução voltada a melhorar a organização e a adesão ao tratamento medicamentoso.
