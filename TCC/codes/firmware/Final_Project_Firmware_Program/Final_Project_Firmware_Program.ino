@@ -435,8 +435,8 @@ void getBelts() {
 }
 void getBeltInfos(int belt) {
   if (temFloorAtivo()) return;
-  const String firebaseHost = "https://firestore.googleapis.com/v1/projects/medicabox-50b65/databases/(default)/documents/users/";
-  const String boxes = "/box/";
+  const String firebaseHost = "";
+  const String boxes = "";
 
   HTTPClient http;
 
