@@ -9,7 +9,7 @@
 ## 📘 About the Project:
 MedicaBox is an automated medication organizer integrated with an Android application. The system allows users to configure their profiles, organize medicines by compartments, schedule medication times, and receive notifications through the mobile app. The physical device uses embedded electronics to automatically identify and dispense the correct medication at the configured time, while the application provides an intuitive interface for managing users, medicines, and schedules. The project combines IoT, embedded systems, and mobile development concepts to create a solution focused on improving medication organization and adherence.
 
-## Members:
+## 🙍 Members:
 **- Beatriz Cerioni**
 **- Caio Sales**
 **- Gabriela Furucho**
@@ -17,7 +17,7 @@ MedicaBox is an automated medication organizer integrated with an Android applic
 **- Pedro Lerio**
 **- Tiago Oliveira**
 
-## Technologies
+## 📱 Technologies
   **- Mobile Programming**\
   **- Embedded Systems**\
   **- Electronics**\
